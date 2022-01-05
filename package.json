@@ -32,7 +32,7 @@
     "async": "*",
     "vcoin": "git://github.com/cruelnovo/vcoin.git",
     "vertcore-lib": "git://github.com/cruelnovo/vertcore-lib.git",
-    "vertcore-message": "git://github.com/vertcoin-project/vertcore-message.git",
+    "vertcore-message": "git://github.com/cruelnovo/vertcore-message.git",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
