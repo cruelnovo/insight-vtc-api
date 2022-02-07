@@ -7,20 +7,6 @@
         ]
     },
     {
-        "poolName": "BSOD",
-        "url": "https://bsod.pw",
-        "searchStrings": [
-            "3AXJr29rY9LYC2owNjJLv4xEPftnQTNffD"
-        ]
-    },
-    {
-        "poolName": "Easymine",
-        "url": "https://vertcoin.easymine.online/",
-        "searchStrings": [
-            "VnC9r7CtwxJTahHu13JYpJF1DhLYaQqe5y"
-        ]
-    },
-    {
         "poolName": "Suprnova",
         "url": "https://vtc.suprnova.cc/",
         "searchStrings": [
@@ -50,7 +36,7 @@
     },
     {
         "poolName": "P2Pool",
-        "url": "https://vertcoin.nutty.one",
+        "url": "http://vtc-fl.javerity.com/",
         "searchStrings": [
             "VjqQAcCCYgvkWAWN5KYFLcFaTWiRW1jFNr"
         ]
@@ -60,20 +46,6 @@
         "url": "https://labs.f2pool.com/labs",
         "searchStrings": [
             "34HRdE64yHragF67oZx6vs6jsnXNLxsrpQ"
-        ]
-    },
-    {
-        "poolName": "NLPOOL",
-        "url": "https://nlpool.nl",
-        "searchStrings": [
-            "3Mz2anWk7Yom28FxAaCLaZaZjPnJvBjYM4"
-        ]
-    },
-    {
-        "poolName": "ALTpool",
-        "url": "http://solo-vtc.altpool.pro",
-        "searchStrings": [
-            "VsmP3y39xdLinCTrgmRdwNXqoeHmfSoRGg"
         ]
     },
     {
@@ -91,13 +63,6 @@
         ]
     },
     {
-        "poolName": "gos.cx",
-        "url": "https://gos.cx/",
-        "searchStrings": [
-            "3DFAA93tjmMq9DmqRX4oiuCqYtwTGo7Tpo"
-        ]
-    },
-    {
         "poolName": "BitPool Mining",
         "url": "https://bitpoolmining.com/poolstatsvtc",
         "searchStrings": [
@@ -105,10 +70,38 @@
         ]
     },
     {
-        "poolName": "fairpool.pro",
-        "url": "https://fairpool.pro/site/coins?coin=VTC",
-        "searchStrings": [
-            "3HVhzZahTQNb36Zwe4MNzUFcHNW7WoFNwU"
+        "poolName": "BBQDroid",
+        "url": "https://www.bbqdroid.org/#vertcoin",
+        "searchStrings" : [
+            "VfuAYaxs3mTYfe5bBWDS5sqjQmLYU8snWX"
         ]
-    }
+    },
+    {
+        "poolName": "Millers Pool",
+        "url": "https://millerspool.com/#vtc1",
+        "searchStrings" : [
+            "VaaY7jJwxyDRV9kHd6Tm8tBLo9LMFaJ3qj"
+        ]
+    },
+    {
+        "poolName": "Wooly Pooly",
+        "url": "https://woolypooly.com/en/coin/vtc",
+        "searchStrings" : [
+            "Vrjrv5Pbt4tbeH6maewTWojq38HJyCG1dW"
+        ]
+    },
+    {
+        "poolName": "Mining Pool Sweeden",
+        "url": "https://miningpoolsweden.eu/?#vert1/",
+        "searchStrings" : [
+            "Vf3NzbRvhaedyNfyWrGGvLkn1ojYcpo18Y"
+        ]
+    },
+    {
+        "poolName": "ACiD Pool",
+        "url": "http://acidpool.co.uk/?#vtc1/",
+        "searchStrings" : [
+            "Vgg6QieaVrB8VKQStY99PgFrq82TafHE8Z"
+        ]
+    }    
 ]
