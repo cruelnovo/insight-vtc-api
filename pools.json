@@ -3,7 +3,8 @@
         "poolName": "zpool",
         "url": "https://zpool.ca/",
         "searchStrings": [
-            "VpHFYXoBnWfQAf4dCsz8TtsbLvyy8He5uh"
+            "VpHFYXoBnWfQAf4dCsz8TtsbLvyy8He5uh",
+            "VbPe6e9gGZaT87YWnJ5kTqtM2X9yDRHdq1"
         ]
     },
     {
@@ -24,7 +25,8 @@
         "poolName": "Hashalot",
         "url": "https://hashalot.net",
         "searchStrings": [
-            "Vxv2Nu9EWWZTcaaDjgVkQEJ8D7F5Gq4FLF"
+            "Vxv2Nu9EWWZTcaaDjgVkQEJ8D7F5Gq4FLF",
+            "VpKzZgw385JReD7zdfQn6ms27gjLBTsJoY"
         ]
     },
     {
@@ -103,5 +105,26 @@
         "searchStrings" : [
             "Vgg6QieaVrB8VKQStY99PgFrq82TafHE8Z"
         ]
-    }    
+    },
+    {
+        "poolName": "Mining Dutch",
+        "url": "https://www.mining-dutch.nl/",
+        "searchStrings" : [
+            "Vg97jn1euMVDjW9SFZ72Me3xtBuSYwU7KY"
+        ]
+    },
+    {
+        "poolName": "Mole Pool",
+        "url": "https://mole-pool.net/pool/vtc",
+        "searchStrings" : [
+            "VwG6k5NtM7t2n4YofY1rN2iNzsiaq3qded"
+        ]
+    },
+    {
+        "poolName": "Mecrypto Club",
+        "url": "https://pool.mecrypto.club/poolstatus?coin=VTC",
+        "searchStrings" : [
+            "VsoDYHrkCdUW1mLtSFh1JjkJwWrJuK96Jm"
+        ]
+    }     
 ]
