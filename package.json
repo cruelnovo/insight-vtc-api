@@ -2,7 +2,7 @@
   "name": "insight-vtc-api",
   "description": "A Vertcoin blockchain REST and web socket API service for Vertcore Node.",
   "version": "5.0.0-beta.44",
-  "repository": "git://github.com/vertcoin-project/insight-vtc-api.git",
+  "repository": "https://github.com/vertcoin-project/insight-vtc-api.git",
   "bugs": {
     "url": "https://github.com/vertcoin-project/insight-vtc-api/issues"
   },
@@ -30,9 +30,9 @@
   "dependencies": {
     "JSONStream": "^1.3.1",
     "async": "*",
-    "vcoin": "git://github.com/cruelnovo/vcoin.git",
-    "vertcore-lib": "git://github.com/cruelnovo/vertcore-lib.git",
-    "vertcore-message": "git://github.com/cruelnovo/vertcore-message.git",
+    "vcoin": "https://github.com/cruelnovo/vcoin.git",
+    "vertcore-lib": "https://github.com/cruelnovo/vertcore-lib.git",
+    "vertcore-message": "https://github.com/cruelnovo/vertcore-message.git",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "bitcoind-rpc": "^0.7.0",
-    "vertcore-p2p": "git://github.com/vertcoin-project/vertcore-p2p.git",
+    "vertcore-p2p": "https://github.com/vertcoin-project/vertcore-p2p.git",
     "chai": "^3.5.0",
     "mkdirp": "^0.5.1",
     "mocha": "^2.4.5",
